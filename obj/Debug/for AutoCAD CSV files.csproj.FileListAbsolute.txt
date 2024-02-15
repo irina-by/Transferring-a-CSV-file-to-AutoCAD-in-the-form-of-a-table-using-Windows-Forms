@@ -1,0 +1,40 @@
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\for AutoCAD CSV files.dll.config
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\for AutoCAD CSV files.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\for AutoCAD CSV files.pdb
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\accoremgd.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\acdbmgd.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\acmgd.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AdUiPalettes.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcDx.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcDxPublishUi.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AdWindows.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcCui.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcCustomize.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AppHomeInterop.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcMr.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcWindows.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AdUIMgd.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcTcMgd.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\AcMNUParser.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\Autodesk.AutoCAD.Interop.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\Autodesk.DesktopConnector.API.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\Serilog.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\acdbmgd.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AcDx.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AcDxPublishUi.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AcCustomize.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AppHomeInterop.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AcMr.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\bin\Debug\ru-RU\AcWindows.resources.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for AutoCAD CSV files.csproj.AssemblyReference.cache
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for_AutoCAD_CSV_files.AutoCADTextInserterForm.resources
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for_AutoCAD_CSV_files.Properties.Resources.resources
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for AutoCAD CSV files.csproj.GenerateResource.cache
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for AutoCAD CSV files.csproj.CoreCompileInputs.cache
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for AutoCAD CSV files.csproj.CopyComplete
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for AutoCAD CSV files.dll
+C:\Users\Irishka\Desktop\for AutoCAD CSV files\for AutoCAD CSV files\obj\Debug\for AutoCAD CSV files.pdb
